@@ -11,4 +11,9 @@ public class DemoProgramTest
 		System.out.println("This is my first program");
 	}
 
+	@Test
+	public void SecondProgram()
+	{
+		System.out.println("This is my Second Prpgram");
+	}
 }
