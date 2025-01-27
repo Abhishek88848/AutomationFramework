@@ -10,11 +10,13 @@ public class DemoProgramTest
 	{
 		System.out.println("This is my first program");
 		System.out.println("This is my first Program second line");
+		System.out.println("This is my first program third line");
 	}
 
 	@Test
 	public void SecondProgram()
 	{
 		System.out.println("This is my Second Prpgram");
+		
 	}
 }
