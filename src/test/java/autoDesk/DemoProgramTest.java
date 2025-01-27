@@ -17,6 +17,6 @@ public class DemoProgramTest
 	public void SecondProgram()
 	{
 		System.out.println("This is my Second Prpgram");
-		
+		System.out.println("This is my second program 2nd line");
 	}
 }
