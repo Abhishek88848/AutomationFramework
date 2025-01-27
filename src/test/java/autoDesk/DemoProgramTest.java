@@ -9,6 +9,7 @@ public class DemoProgramTest
 	public void FirstProgram()
 	{
 		System.out.println("This is my first program");
+		System.out.println("This is my first Program second line");
 	}
 
 	@Test
