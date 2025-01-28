@@ -10,4 +10,9 @@ public class BranchTest
 		System.out.println(" Abhishek kelusker ");
 	}
 
+	@Test
+	public void BranchMethodTest2()
+	{
+		System.out.println("Abhishek kelusker 2");
+	}
 }
